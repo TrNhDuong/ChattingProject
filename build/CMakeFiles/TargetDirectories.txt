@@ -1,0 +1,3 @@
+/mnt/c/Users/MY MSI/Desktop/Project/Chatting App/Chatting-Online/Websocket/Serverr/build/CMakeFiles/ServerApp.dir
+/mnt/c/Users/MY MSI/Desktop/Project/Chatting App/Chatting-Online/Websocket/Serverr/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/MY MSI/Desktop/Project/Chatting App/Chatting-Online/Websocket/Serverr/build/CMakeFiles/rebuild_cache.dir

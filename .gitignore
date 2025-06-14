@@ -1,0 +1,7 @@
+.vscode
+msgProcess.cpp
+msgProcess.hpp
+Makefile
+server
+server.cpp
+server.exe
