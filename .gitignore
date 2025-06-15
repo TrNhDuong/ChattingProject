@@ -3,5 +3,5 @@ msgProcess.cpp
 msgProcess.hpp
 Makefile
 server
-server.cpp
+old.cpp
 server.exe
